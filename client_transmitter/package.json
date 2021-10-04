@@ -11,6 +11,10 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manny89/HTTP-File-Transmitter/tree/master/client_transmitter"
+  },
   "author": "M. Gonzalez",
   "license": "ISC"
 }
